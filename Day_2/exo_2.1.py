@@ -1,0 +1,1 @@
+print(sum([int(t) for t in input('Enter a two digit number: ')]))
